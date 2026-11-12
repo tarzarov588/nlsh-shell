@@ -1,0 +1,40 @@
+Build artifacts
+
+build/*
+!build/.gitkeep
+
+Backup files
+
+*.backup
+*.bak
+*.old
+*.orig
+
+Temporary files
+
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+Debug files
+
+.log
+core
+core.
+
+IDE and editor files
+
+.idea/
+.vscode/
+*.iml
+
+Operating system files
+
+.DS_Store
+Thumbs.db
+
+Git temporary files
+
+*.lock
