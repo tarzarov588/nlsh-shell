@@ -18,7 +18,7 @@ The project is developed in C and uses native Android system libraries.
 
 Its architecture is intended to support future improvements, additional shell features and deeper integration with the Termux environment.
 
-Main Features
+# Main Features
 
 - Independent shell implementation.
 - Written in C.
@@ -49,7 +49,7 @@ Executable| nlsh
 Package format| DEB
 Build system| Native compilation
 
-Installation
+# Installation
 
 Install using a local DEB package
 
@@ -57,7 +57,7 @@ If you already have the NLSH package:
 
 pkg install ./nlsh-shell_1.0.0_aarch64.deb
 
-Start NLSH
+# Start NLSH
 
 After installation, execute:
 
@@ -65,7 +65,7 @@ nlsh
 
 Building from Source
 
-Clone the repository:
+# Clone the repository:
 
 git clone https://github.com/Tarzarov588/nlsh-shell.git
 
@@ -107,7 +107,7 @@ nlsh-shell/
 │
 └── README.md
 
-Configuration
+# Configuration
 
 NLSH is designed to support its own configuration system.
 
@@ -117,7 +117,7 @@ The planned configuration file is:
 
 This file is intended to provide a dedicated location for shell customization and user preferences.
 
-Technical Details
+# Technical Details
 
 NLSH uses native Android system libraries, including:
 
@@ -132,7 +132,7 @@ Build environment:
 - Android API 24 or newer
 - ARM64 architecture
 
-Development
+# Development
 
 NLSH is an evolving project.
 
