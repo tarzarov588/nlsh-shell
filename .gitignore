@@ -20,9 +20,9 @@ Temporary files
 
 Debug files
 
-.log
+*.log
 core
-core.
+core.*
 
 IDE and editor files
 

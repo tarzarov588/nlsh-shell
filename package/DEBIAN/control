@@ -1,0 +1,8 @@
+Package: nlsh-shell
+Version: 1.0.0
+Architecture: aarch64
+Maintainer: Tarzarov588
+Section: shells
+Priority: optional
+Description: NLSH - New Linux Shell
+ An independent shell for Termux with its own interpreter and configuration.
